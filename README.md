@@ -1,2 +1,2 @@
 # My-site
-https://aditisinghchauhan.github.io/My-site/
+https://aditicodess.github.io/My-site/
